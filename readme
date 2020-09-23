@@ -1,0 +1,17 @@
+hi
+it's 
+read me please
+there is nothing useful
+yhis
+this*
+is just simple app for education purpuses
+here we get data
+then we parse it and clear from harmful data like null in names and last_names of users
+in format of csv to sqlite on Python
+In database we have 1 main table with list of users and their data also with time stamps
+The time stamps are showing us the period of data being actual
+In order to see changes over the unforgiving time
+There is as table of temprory users(t_users) from this creates other 3 tables where the users are divided and waiting actions to changes
+Updated, Deleted, New users
+then they will go to the main table accordingly to changes
+------------END-------------------
